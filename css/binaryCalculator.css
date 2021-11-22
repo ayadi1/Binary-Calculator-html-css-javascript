@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 33%;
+}
+#res{
+    background-color: lightgray;
+    border: solid;
+    height: 49px;
+    font-size: 20px;
+}
+#btns{
+    display: flex;
+    flex-wrap: wrap;
+}
+button{
+    width: 25%;
+    height: 36px;
+    font-size: 16px;
+    float: left;
+    /* border: none; */
+}
+#btn0,#btn1{
+    color: red;
+    background-color: #90EE90;
+}
+#btnClr,#btnEql{
+    color: white;
+    background-color: #006400;
+}
+#btnSum,#btnSub,#btnMul,#btnDiv{
+    color: red;
+    background-color: #000000;
+}
