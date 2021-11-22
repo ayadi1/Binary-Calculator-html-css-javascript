@@ -1,2 +1,2 @@
 create binary calculator use html css javascript <br>
-live preview  :
+live preview  : https://binary-calculator-html-css-javascript.netlify.app/
