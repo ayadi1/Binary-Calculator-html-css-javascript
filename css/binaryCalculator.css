@@ -2,8 +2,10 @@
     margin: 0;
     padding: 0;
 }
-body{
-    width: 33%;
+main{
+    width: 500px;
+    margin: auto;
+   margin-top: 200px;
 }
 #res{
     background-color: lightgray;
